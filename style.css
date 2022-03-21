@@ -1,0 +1,18 @@
+
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background: url('./cal.jpeg');
+    background-size: cover;
+}
+
+.appointment, .appointment-list-divider, .appointment-book-divider, .btn-book {
+    margin-top: 10px;
+}
+
+.lastname {
+    margin-bottom: 5px;
+}
